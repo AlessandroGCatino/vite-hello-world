@@ -1,19 +1,19 @@
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-import FeaturedImage from './components/FeaturedImage.vue'
+import AppTitle from './components/AppTitle.vue'
+import AppHero from './components/AppHero.vue'
 
 export default {
   components: {
-    HelloWorld,
-    FeaturedImage,
+    AppTitle,
+    AppHero,
   }
 }
 </script>
 
 <template>
 
-  <HelloWorld/>
-  <FeaturedImage/>
+  <AppTitle/>
+  <AppHero/>
   
 </template>
 

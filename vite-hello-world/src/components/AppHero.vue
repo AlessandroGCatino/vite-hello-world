@@ -1,6 +1,6 @@
 <script>
     export default{
-        name: "FeaturedImage"
+        name: "AppHero"
     }
 </script>
 
